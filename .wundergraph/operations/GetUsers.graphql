@@ -1,0 +1,7 @@
+query GetUsers {
+  todo_findManyUser {
+    id
+    name
+    email
+  }
+}
